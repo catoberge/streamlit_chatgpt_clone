@@ -9,6 +9,6 @@ Thanks to Alejandro AO for the exellent tutorial: https://www.youtube.com/@aleja
 * [Langchain](https://www.langchain.com/)
 * [OpenAI API](https://platform.openai.com/docs/introduction)
 
-## Example
+## Media
 https://github.com/catoberge/streamlit_chatgpt_clone/assets/80479739/cf412ab6-e4ff-468f-a301-affe415d08e9
 
