@@ -1,4 +1,4 @@
-# streamlit_chatgpt_clone
+# Langchain ChatGPT Clone
 
 An attempt at making a mini-ChatGPT.
 Thanks to Alejandro AO for the exellent tutorial: https://www.youtube.com/@alejandro_ao
